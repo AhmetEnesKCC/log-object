@@ -1,0 +1,15 @@
+{
+  "name": "log-object",
+  "version": "1.0.9",
+  "description": "Log Objects with template string literals without repeating object name.",
+  "main": "out/log-object.js",
+  "keywords": [
+    "console.log",
+    "object",
+    "template literal"
+  ],
+  "author": "AhmetEnesKCC",
+  "license": "MIT",
+  "package name": "object-log",
+  "types": "out/log-object.d.ts"
+}
