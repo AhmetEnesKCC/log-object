@@ -16,7 +16,7 @@ const myobj = {
   surname: "Doe",
 };
 
-Log.obj(myobj, "Hello my name is ${name} and my surname is {surname}");
+Log.obj(myobj, "Hello my name is ${name} and my surname is ${surname}");
 ```
 
 which outputs =>
