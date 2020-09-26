@@ -75,7 +75,7 @@ Log.raw(myobj, "Hello my name is {name} and surname is {surname}");
 
 ```js
 
-let myPromise = new Promise((res, rej) => {
+let myPromise = new Promise((resolve, reject) => {
   if (/* condition */) {
     reject(Log.error(object, string))
   } else {
